@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I'm Najma
 
-<!--
-**nalghoul27/nalghoul27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Cybersecurity & Software Development Student**  
+💻 Passionate about Ethical Hacking, Network Security, and Building Web & Mobile Applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills & Technologies
+
+- **Cybersecurity & Ethical Hacking:**  
+  `Kali Linux` | `Nmap` | `Nessus` | `Metasploit` | `Wireshark` | `Burp Suite` | `Airgeddon` | `Bettercap`
+
+- **Software & Web Development:**  
+  `Flutter` | `Dart` | `PHP` | `JavaScript` | `HTML5/CSS3`
+
+- **Databases & Networking:**  
+  `MySQL` | `SQLite` | `phpMyAdmin` | `VMware` | `Cisco IOS` | `GNS3`
+
+---
+
+### 🎯 Areas of Interest
+
+- 🛡️ Vulnerability Assessment & Penetration Testing
+- 📱 Developing Cross-Platform Mobile Applications using Flutter
+- 🌐 Building Full-Stack Web Applications & Database Management
+- 🔐 Data Encryption, Network Security & System Administration
+
+---
+
+### 📬 Connect with Me
+
+- 💻 **GitHub:** [@nalghoul27](https://github.com/nalghoul27)
+
+---
+![Najma's GitHub stats](https://github-readme-stats.vercel.app/api?username=nalghoul27&show_icons=true&theme=dark)
